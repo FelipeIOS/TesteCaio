@@ -16,7 +16,6 @@
 		049ED98F25C21FC800C8495D /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049ED98E25C21FC800C8495D /* LoginVC.swift */; };
 		049ED9A125C22B5200C8495D /* MyDataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049ED9A025C22B5200C8495D /* MyDataVC.swift */; };
 		049ED9A525C22B7700C8495D /* ConfigVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049ED9A425C22B7700C8495D /* ConfigVC.swift */; };
-		D3F5729E25C2314C006C07FA /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F5729D25C2314B006C07FA /* Search.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		049ED98E25C21FC800C8495D /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		049ED9A025C22B5200C8495D /* MyDataVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDataVC.swift; sourceTree = "<group>"; };
 		049ED9A425C22B7700C8495D /* ConfigVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigVC.swift; sourceTree = "<group>"; };
-		D3F5729D25C2314B006C07FA /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 		049ED95725BF9DBD00C8495D /* testeRepo */ = {
 			isa = PBXGroup;
 			children = (
-				D3F5729C25C230CD006C07FA /* Search */,
 				049ED99F25C22B3B00C8495D /* Config */,
 				049ED99E25C22B3200C8495D /* MyData */,
 				049ED99C25C22B1500C8495D /* Login */,
@@ -101,14 +98,6 @@
 				049ED9A425C22B7700C8495D /* ConfigVC.swift */,
 			);
 			path = Config;
-			sourceTree = "<group>";
-		};
-		D3F5729C25C230CD006C07FA /* Search */ = {
-			isa = PBXGroup;
-			children = (
-				D3F5729D25C2314B006C07FA /* Search.swift */,
-			);
-			path = Search;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,7 +176,6 @@
 				049ED9A125C22B5200C8495D /* MyDataVC.swift in Sources */,
 				049ED9A525C22B7700C8495D /* ConfigVC.swift in Sources */,
 				049ED95B25BF9DBD00C8495D /* SceneDelegate.swift in Sources */,
-				D3F5729E25C2314C006C07FA /* Search.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

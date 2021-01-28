@@ -9,9 +9,8 @@ import Foundation
 import UIKit
 
 class ConfigVC:UIViewController{
-    
-    
-    
-    
-    
+	
+	func configuracaoInicial() {
+	}
+	
 }

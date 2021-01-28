@@ -10,6 +10,8 @@ import UIKit
 
 class LoginVC:UIViewController{
    
-    
+    func DaniloAA () {
+        
+    }
     
 }
